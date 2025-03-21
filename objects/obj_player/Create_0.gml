@@ -4,6 +4,6 @@ tilemap = layer_tilemap_get_id("Tiles_col")
 
 hp = 100;
 hp_total = hp;
-damage = 1;
+damage = 25;
 
 facing = 0;
