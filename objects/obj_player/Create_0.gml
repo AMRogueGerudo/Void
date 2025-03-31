@@ -23,6 +23,6 @@ function add_xp(_xp_to_add)
     
     hp_total += 50;
     hp = hp_total
-    damage += 0.8;
+    damage += 1.8;
     }      
 }
